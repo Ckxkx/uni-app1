@@ -1,0 +1,15 @@
+
+	/* 修复：样式语法错误（%2 是无效语法，改为具体数值） */
+.content{
+		padding: 10rpx 2%; /* 修正百分比写法 */
+		width: 96%;
+		flex-wrap: wrap;
+}
+.title{
+		line-height: 2em;
+		font-weight: 700;
+		font-size: 38rpx;
+}
+.art-content{
+		line: height 2pm;
+}

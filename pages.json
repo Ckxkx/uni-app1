@@ -1,0 +1,23 @@
+{
+	"pages": [ // pages数组中第一项表示应用启动页
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "新闻列表" // 可修改为更贴合页面的标题
+			}
+		},
+		{
+			"path": "pages/info/info", // 新增info页面的注册
+			"style": {
+				"navigationBarTitleText": "新闻详情" // 详情页标题
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
