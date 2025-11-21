@@ -175,8 +175,7 @@ npm run build:app
 ## 联系方式
 
 如有问题或建议，请通过以下方式联系：
-- 邮箱：your-email@example.com
-- 微信：your-wechat-id
+- 邮箱：2647261133@qq.com
 
 ## 更新日志
 
